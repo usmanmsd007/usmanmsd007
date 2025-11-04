@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Usman @usmanmsd007 
-- 👀 I’m working in Flutter App Development
-- 💞️ I’m looking to collaborate on Flutter Projects
-- 📫 How to reach me:
--  usmanmsd007@gmail.com
--  Whatsapp: 03068303777 
+- 👋 Hi, I’m Usman
+- A Flutter developer
+- Love to code in dart
+- Curious to know and work on other technologies
+- Available for projects and open source contributions 
 
 
 <!---
